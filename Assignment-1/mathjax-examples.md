@@ -42,13 +42,15 @@ $$
 a^2-b^2 = (a+b)(a-b) \
 $$
 
--$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$
+- $\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$
 
-$f(n) =
+- $$
+f(n) =
 \begin{cases}
 n/2,  & \text{if $n$ is even} \\
 3n+1, & \text{if $n$ is odd}
-\end{cases}$
+\end{cases}
+$$
 
 - $$
 \mathbf{V}_1 \times \mathbf{V}_2 =  \begin{vmatrix} 
